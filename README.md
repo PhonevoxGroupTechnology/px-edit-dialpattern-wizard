@@ -10,7 +10,7 @@ Instalador utilizado para editar a página *trunks.php* e *routes.php*, alterand
 # Instalação
 
 ```sh
-git clone https://github.com/adriankubinyete/px-edit-dialpattern-wizard.git
+git clone https://github.com/PhonevoxGroupTechnology/px-edit-dialpattern-wizard.git
 cd px-edit-dialpattern-wizard
 chmod +x install.sh
 ./install.sh
