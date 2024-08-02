@@ -1,4 +1,4 @@
-# Phonevox EDIT: Dialpattern Wizard (px-edit-dialpattern-wizard)
+# Phonevox Dialpattern Wizard
 
 **pt-BR**: Script feito para a atualização do wizard de dialpatterns para nossos padrões, no Issabel4.<br>
 **en-US**: Script made for updating the dialpattern wizard for our defaults, in Issabel4.
@@ -10,8 +10,8 @@ Instalador utilizado para editar a página *trunks.php* e *routes.php*, alterand
 # Instalação
 
 ```sh
-git clone https://github.com/PhonevoxGroupTechnology/px-edit-dialpattern-wizard.git
-cd px-edit-dialpattern-wizard
+git clone https://github.com/phonevox/edit-dialpattern-wizard.git
+cd edit-dialpattern-wizard
 chmod +x install.sh
 ./install.sh
 ```
